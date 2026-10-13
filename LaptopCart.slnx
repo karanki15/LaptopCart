@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="LaptopCart.DataAccess/LaptopCart.DataAccess.csproj" Id="6ab36b43-9a38-465c-829c-135b56b28ab8" />
+  <Project Path="LaptopCart.Models/LaptopCart.Models.csproj" Id="e758d205-18ec-4347-bc3c-ffdf38d4cc46" />
+  <Project Path="LaptopCart/LaptopCart.csproj" />
+  <Project Path="LatopCart.Utility/LatopCart.Utility.csproj" Id="f087aa9b-8dd0-4fb5-8df9-3a9fb2b80d23" />
+</Solution>
